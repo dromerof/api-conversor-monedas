@@ -50,7 +50,7 @@ Sigue los siguientes pasos para configurar y ejecutar el proyecto en tu máquina
 
 3. Configura las variables de entorno necesarias para la conexión con la API:
 
-    * Renombra el archivo .env.template a .env.
+    * Renombra el archivo .example.env a .env.
 
     * Abre el archivo .env y agrega tus credenciales de la API y la URL base:
 
